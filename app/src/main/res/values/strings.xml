@@ -5,4 +5,24 @@
     <string name="yudbet">yudbet</string>
     <string name="agree_to_terms">agree to terms and conditions</string>
 
+    <string-array name="majors">
+        <item name="enter_major">enter major</item>
+        <item name="english">english</item>
+        <item name="computers">computers</item>
+        <item name="spanish">spanish</item>
+        <item name="physics">physics</item>
+        <item name="communications">communications</item>
+
+    </string-array>
+
+    <string name="error_enter_first_name">Please enter first name</string>
+    <string name="error_enter_last_name">Please enter last name</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_select_option">Please select an option</string>
+    <string name="error_check_box">pls check this box</string>
+    <string name="enter_major_text">enter major</string>
+    <string name="error_enter_major">enter major pls</string>
+    <string name="status_off">off</string>
+    <string name="status_on">on</string>
+    <string name="result_format">Name: %1$s, last name: %2$s, email: %3$s, grade: %4$s, major: %5$s, notifications: %6$s</string>
 </resources>
